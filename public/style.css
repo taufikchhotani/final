@@ -71,13 +71,6 @@ body {
   color: #444;
   font-weight: 700;
 }
-.sort .nav-pills > li.second > a:active,
-.sort .nav-pills > li.second > a:focus,
-.sort .nav-pills > li.second > a:hover {
-  background-color: transparent;
-  color: #444;
-  font-weight: 700;
-}
 .sort .nav-pills > li > a {
   color: #aaa;
 }
